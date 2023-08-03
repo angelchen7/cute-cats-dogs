@@ -1,0 +1,24 @@
+/*-- scss:defaults --*/
+
+// import fonts from fonts.google.com
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Nunito:wght@400;800&display=swap');
+
+// colors
+$green: #348553;
+$light-green: #589244; 
+$yellow: #E9A300;
+$red: #A23601;
+$white: #FFFFFF;
+$gray: #ADADAD;
+$black: #525452;
+
+$font-family-sans-serif: 'Nunito', sans-serif;
+$font-family-serif: 'Arvo', serif;
+
+$body-color: $black;
+$link-color: $red;
+$toc-color: $green;
+$toc-active-border: $yellow;
+
+/*-- scss:rules --*/
+
