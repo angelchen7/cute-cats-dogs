@@ -1,7 +1,11 @@
+---
+theme: practice-styles.css
+---
+
 # Here is my level one header
 
-Here is my first paragraph
+<p class="blue-text">Here is my first paragraph</p>
 
 Here is my second paragraph, where you can read more about NCEAS [Roundtables](https://www.nceas.ucsb.edu/roundtable).
 
-This is very important text!
+[This is [very]{.blue-text} important text!]{.important-text}
